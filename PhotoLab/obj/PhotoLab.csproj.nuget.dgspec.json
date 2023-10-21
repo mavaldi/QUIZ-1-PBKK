@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maval\\OneDrive\\Pictures\\gitt\\QUIZ-1-PBKK\\PhotoLab\\PhotoLab.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maval\\OneDrive\\Pictures\\gitt\\QUIZ-1-PBKK\\PhotoLab\\PhotoLab.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maval\\OneDrive\\Pictures\\gitt\\QUIZ-1-PBKK\\PhotoLab\\PhotoLab.csproj",
+        "projectName": "PhotoLab",
+        "projectPath": "C:\\Users\\maval\\OneDrive\\Pictures\\gitt\\QUIZ-1-PBKK\\PhotoLab\\PhotoLab.csproj",
+        "packagesPath": "C:\\Users\\maval\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maval\\OneDrive\\Pictures\\gitt\\QUIZ-1-PBKK\\PhotoLab\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maval\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[5.3.3, )"
+            },
+            "Microsoft.Toolkit.Uwp.UI.Animations": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            },
+            "Microsoft.UI.Xaml": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

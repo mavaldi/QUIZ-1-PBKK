@@ -1,0 +1,13 @@
+C:\Users\maval\Videos\QUIZ-PBKK-A-main\PhotoLab\obj\x86\Debug\PhotoLab.csproj.AssemblyReference.cache
+C:\Users\maval\Videos\QUIZ-PBKK-A-main\PhotoLab\obj\x86\Debug\App.g.i.cs
+C:\Users\maval\Videos\QUIZ-PBKK-A-main\PhotoLab\obj\x86\Debug\App.g.cs
+C:\Users\maval\Videos\QUIZ-PBKK-A-main\PhotoLab\obj\x86\Debug\DetailPage.g.i.cs
+C:\Users\maval\Videos\QUIZ-PBKK-A-main\PhotoLab\obj\x86\Debug\DetailPage.g.cs
+C:\Users\maval\Videos\QUIZ-PBKK-A-main\PhotoLab\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\maval\Videos\QUIZ-PBKK-A-main\PhotoLab\obj\x86\Debug\MainPage.g.cs
+C:\Users\maval\Videos\QUIZ-PBKK-A-main\PhotoLab\obj\x86\Debug\App.xaml
+C:\Users\maval\Videos\QUIZ-PBKK-A-main\PhotoLab\obj\x86\Debug\DetailPage.xaml
+C:\Users\maval\Videos\QUIZ-PBKK-A-main\PhotoLab\obj\x86\Debug\MainPage.xaml
+C:\Users\maval\Videos\QUIZ-PBKK-A-main\PhotoLab\obj\x86\Debug\App.xbf
+C:\Users\maval\Videos\QUIZ-PBKK-A-main\PhotoLab\obj\x86\Debug\DetailPage.xbf
+C:\Users\maval\Videos\QUIZ-PBKK-A-main\PhotoLab\obj\x86\Debug\MainPage.xbf
